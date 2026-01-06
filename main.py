@@ -1,3 +1,4 @@
+# Badge Hunter main script
 def main():
     print("Hello, GitHub Badges!")
     print("I am ready to earn the Pull Shark badge!")
